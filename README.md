@@ -1,3 +1,5 @@
+![Docker Image CI](https://github.com/sgcip/goofys/workflows/Docker%20Image%20CI/badge.svg?branch=cip-master&event=push)
+
 # goofys
 
 [Goofys](https://github.com/kahing/goofys) S3 Filesystem Docker Implementation.
